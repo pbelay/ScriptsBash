@@ -11,7 +11,7 @@ Alguns scripts de utilidade en Bash
 + [extractAudio.sh](extractAudio.sh) . Script para extraer o audio dos ficheiros mp4 e xerar o mp3 
 
 ## Manipulación de PDF's
-+ [extraerAudio](extraerAudio) . Script para extraer o audio dun video. (ffmpeg)
++ [extraerAudio.sh](extraerAudio.sh) . Script para extraer o audio dun video. (ffmpeg)
 
 ## Manipulación de JPG
 + Engadir marca de auga. 
