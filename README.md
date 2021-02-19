@@ -10,5 +10,8 @@ Alguns scripts de utilidade en Bash
 + [crearvideo.sh](crearvideo.sh) . Script para crear un video cun mp3 dado e unha imaxen fixa. 
 + [extractAudio.sh](extractAudio.sh) . Script para extraer o audio dos ficheiros mp4 e xerar o mp3 
 
+## Manipulación de PDF's
++ [extraerAudio](extraerAudio) . Script para extraer o audio dun video. (ffmpeg)
+
 ## Manipulación de JPG
 + Engadir marca de auga. 
